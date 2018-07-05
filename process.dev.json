@@ -1,0 +1,8 @@
+{
+  "apps": [
+    {
+      "name": "productcentraldocsmanager",
+      "script": "server.js",
+    }
+  ]
+}
